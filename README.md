@@ -20,7 +20,9 @@ The Gameplay
 -------------
 
 In Pacu Jawi game, the player will be play as a participant of Pacu Jawi. There are three challenges that player has to overcome.
+
 1. Player has to maintain the position by pressing correct alphabet that appear on the left and right side. By doing it correctly, the pair of the cattle will move slowly to the pressed correctly alphabet.
+
 2. Since the mud is greatly affect the participant focus, player has to pick focus up coin that spread out on the crop. So, player can participating in the game longer and gain more money to be spend at power up.
 
 
